@@ -77,7 +77,6 @@ The Image-Based Steganography Tool is a Python-powered application that enables 
 
 ## 🌐 Connect with Me 
 
-- 📧 [Email](mailto:gauravghandat12@gmail.com)
-- 💼 [LinkedIn](www.linkedin.com/in/gaurav-ghandat-68a5a22b4)
+- 💼 [LinkedIn](https://www.linkedin.com/in/pravin-darange-17118b32b/)
 
 
